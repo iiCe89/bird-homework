@@ -19,15 +19,6 @@ h1 {
   z-index: 1;
   position: relative;
   overflow: hidden;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
   min-height: 120vh;
   min-height: 50rem;
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 168, 76, 0.6)), to(rgba(255, 123, 13, 0.6))), url("https://wallpapercave.com/wp/wp3176703.jpg");
